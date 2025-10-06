@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Vite/Turbo outputs
+.dist/
+dist/
+.vite/
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Env
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
